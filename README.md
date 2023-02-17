@@ -1,3 +1,3 @@
 # RxJava with Kotlin
 
-![](docs/sample.png)
+![Rodrigo Diego Quispe Laura | Rodrigo Quispe](docs/sample.png)
